@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Sistema de monitoreo biométrico universitario",
   "main": "index.html",
-  "author": "Guillermo Josué Martínez González",
+  "author": "Guillermo Josué Martínez González; Alejandra Quintero Manriquez",
   "license": "GPL-3.0",
   "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/GuillermoJG1/EpilCare-Monitor-de-Crisis-Epil-pticas.git"
   }
+
 }
